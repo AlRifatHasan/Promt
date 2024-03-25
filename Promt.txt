@@ -1,4 +1,5 @@
-Q: Write a pleasant planning a trip from Toronto to Atlantic Canada. Create an itinerary detailing your journey, including cities visited and travel duration.
+Question:
+ Write a pleasant planning a trip from Toronto to Atlantic Canada. Create an itinerary detailing your journey, including cities visited and travel duration.
 Itinerary:
 Toronto to Atlantic Canada Journey:
 
